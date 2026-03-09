@@ -13,17 +13,18 @@
 
 </br>
 
-- ☢️ I worked at Umbrella Corporation in a constrained environment. </br>
+- ☢️ I worked at Umbrella Corporation as ML engineer about 2 years. </br>
   • representation learning </br>
   • AI-driven reasoning & decision systems </br>
   • vector-based retrieval </br>
   • applied AI prototyping with Python </br>
 
-- 💡 I’m interested in turning abstract ideas into interactive and visual experiences using **Unity, Unreal**, supported by **3D tools**.
+- 🌱 I'm currently learning </br>
+  • Reinforcement Learning </br>
+  • Unreal Engine, Unity, Blender </br>
+  • **and _Life itself_**
 
-- 🌱 I'm currently learning DirectX, Blender, Advanced Reinforcement Learning — **and _Life itself_**.
-
-- ⚡ I’m currently interested in </br>
+- ⚡ I’m interested in </br>
   • Representation learning for perception & abstraction </br>
   • State-space modeling & filtering </br>
   • Reinforcement learning with simulation </br>
