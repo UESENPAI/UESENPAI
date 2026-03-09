@@ -24,8 +24,8 @@
   • Unreal Engine, Unity, Blender </br>
   • **and _Life itself_**
 
-- ⚡ I’m interested in </br>
-  • Representation learning for perception & abstraction </br>
+- ⚡ I’m interested in sim2real </br>
+  • Advanced Representation learning </br>
   • State-space modeling & filtering </br>
   • Reinforcement learning with simulation </br>
 
