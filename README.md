@@ -1,4 +1,4 @@
-<h1 align="center">Dr. [REDACTED]</h1>
+<h1 align="center">Dr. UESENPAI</h1>
 
 <p align="center">
   <i>Researcher · AGLAIA Research Division</i>
